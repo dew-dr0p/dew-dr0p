@@ -9,4 +9,11 @@ You can click the Preview link to take a look at your changes.
   <br>
   <br>
 <!--   <a href="https://www.buymeacoffee.com/aveek.saha"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a> -->
+  <a href="https://github.com/webcrumbs-community/webcrumbs">
+    <img
+      src="https://github.com/webcrumbs-community/webcrumbs/blob/main/src/img/contributor-badge.png"
+      alt="WebCrumbs Contributor"
+      width="200px"
+    />
+  </a>
 </p>
